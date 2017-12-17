@@ -65,7 +65,7 @@ function giveBTCToPlayer(player, command, playerName, miktar)
 	local playername = findPlayerByName(playerName)
 	setElementData(playername,"bitcoin" getElementData()
 end
-addCommandHandler("ceza", cezaVer)
+addCommandHandler("givebtc", giveBTCToPlayer)
 --
 
 --Oyuncu Bulma fonksiyonu--
