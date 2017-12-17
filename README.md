@@ -1,2 +1,2 @@
 # btcsystem
-bitcoin sistemi
+Geliştirilebilir bitcoin sistemi
